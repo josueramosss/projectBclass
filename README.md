@@ -10,6 +10,6 @@ Marília, São Paulo - SP
 Cel: (14) 99671-7208
 
 ---
-Formação:
+# Formação:
 
 Tecnologia em Análise e Desenvolvimento de Sistemas
